@@ -291,6 +291,9 @@ footer ul li:nth-child(4) a:before {
   body{
     height: 102vh;
   }
+  .front-page-heading {
+  margin-left: 0.5em;
+}
   .front-page-image {
     position: absolute;
     z-index: -1;
