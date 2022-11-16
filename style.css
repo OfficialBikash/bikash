@@ -216,12 +216,12 @@ footer ul li {
 }
 
 footer ul li a {
-  width: 80px;
-  height: 80px;
+   width: 57px;
+  height: 60px;
+  line-height: 63px;
   background-color: transparent;
   border: 2px solid blue;
   text-align: center;
-  line-height: 80px;
   font-size: 35px;
   margin: 0 10px;
   display: block;
