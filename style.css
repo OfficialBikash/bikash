@@ -18,7 +18,7 @@ body {
   color: black;
   width: 100%;
   height: 117vh;
-  overflow-y: hidden;
+  overflow-x: hidden;
 }
 header {
   width: -webkit-fill-available;
